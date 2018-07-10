@@ -75,6 +75,9 @@ Un script muy sencillo podría verse así:
 
 ![Script](Script.PNG)
 
+
+RECUERDEN que deben poner al inicio quien hizó el Script, que día y que hace.
+
 "Ejemplo_script.R" es el nombre del archivo, es decir, que este texto es un **archivo de texto** (con terminación .R en vez de .txt) que vive en mi computadora.
 
 ![dondeEjemplo_script](dondeEjemplo_script.PNG)
