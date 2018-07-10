@@ -125,11 +125,3 @@ Vectores:
 
 **Ejercicio** ¿cuántos números son mayores a 20
 en el vector -13432:234?
-
-
-
-
-
-
-
-
