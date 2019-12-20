@@ -4,7 +4,7 @@ Profesora:
 
 M. en C. Verónica Reyes Galindo 
 
-Sábados - am . Casa Tlalpan (Juanito House)
+Sábados 9:00-11:00 am. Casa Tlalpan (Juanito House)
  
 ## Objetivos
 
@@ -31,24 +31,26 @@ Que mis amigüitos aprendan a usar herramientas bioinformaticas para librar los 
 
 La hora de la clase es puntual, para no interferir con nuestras demás actividades. Aquel que llegue tarde debera pagar su retardo con algún incentivo alimenticio para la próxima clase.
 
-Se dejaran lecturas que los participantes deberan leer y comentar en clase.
+Se dejaran lecturas que los participantes deberan leer y comentar en clase. La tarea es aplicar lo que vimos durante la clase en sus datos.
 
 
 
 ## Calendario
 
-|Mes|Día|Actividad||||
+|Mes|Día|Tema|Actividad|# Clase|Tarea|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Enero|11|||||
-|Enero|18|||||
-|Enero|25|||||
-|Febrero|1|||||
-|Febrero|8|||||
-|Febrero|15|||||
-|Febrero|22|||||
-|Febrero|29|||||
-|Marzo||||||
-|Marzo||||||
-|Marzo||||||
+|Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R|1|Ordenar datos de tesis /vida en una tabla|
+|Enero|18|Entorno de R/ Operaciones matematicas básicas|Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
+|Enero|25|vectores |Trabajar en terminal R|3||
+|Febrero|1|matrices|Trabajar en terminal R|4||
+|Febrero|8|Data frame/Listas|Trabajar en terminal R|5||
+|Febrero|15|combinar, cortar y pegar datos|Trabajar en terminal R|6||
+|Febrero|22|for loops|Trabajar en terminal R|7||
+|Febrero|29|funciones|Trabajar en terminal R|8||
+|Marzo|2|Instalar paqueterias y plotear graficos|Trabajar en terminal R|9||
+|Marzo|9|Exponer sus dudas y gráficos/análisis de interes|Trabajar en terminal R|10||
+|Marzo|16| ||11||
+|Marzo|23|Edición de gráficos|Trabajar en terminal R|12||
+|Marzo|30|Resolver gráficos|Trabajar en terminal R|13||
 
 
