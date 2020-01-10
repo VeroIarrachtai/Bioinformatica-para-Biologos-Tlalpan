@@ -45,7 +45,7 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 
 |Mes|Día|Tema|Actividad|# Clase|Tarea|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R|1|Hacer una cuenta en GitHub/ Ordenar datos de tesis o de su vida en una tabla|
+|Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R/Crear un directorio para sus datos|1|Hacer una cuenta en GitHub/ Ordenar datos de tesis o de su vida en una tabla|
 |Enero|18|Entorno de R/ Operaciones matematicas básicas|Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
 |Enero|25|vectores |Trabajar en terminal R|3||
 |Febrero|1|matrices|Trabajar en terminal R|4||
@@ -55,8 +55,8 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 |Febrero|29|funciones|Trabajar en terminal R|8||
 |Marzo|2|Instalar paqueterias y plotear graficos|Trabajar en terminal R|9||
 |Marzo|9|Exponer sus dudas y gráficos/análisis de interes|Trabajar en terminal R|10||
-|Marzo|16| ||11||
-|Marzo|23|Edición de gráficos|Trabajar en terminal R|12||
-|Marzo|30|Resolver gráficos|Trabajar en terminal R|13||
+|Marzo|16| Edición de gráficos|Trabajar en terminal R|11||
+|Marzo|23|Resolver gráficos|Trabajar en terminal R|12||
+|Marzo|30|||13||
 
 
