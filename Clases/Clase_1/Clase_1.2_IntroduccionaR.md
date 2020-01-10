@@ -1,4 +1,4 @@
-# CLASE 1: Introducción a R 
+# CLASE 1.2: Introducción a R 
 
 ![](../Imagenes/Creadores-de-R-Software-Robert-Gentleman-y-Ross-Ihaka.png)
 
@@ -123,7 +123,9 @@ La idea es que en el editor de texto vayas escribiendo los comandos y comentario
 
 # EJERCICIOS
 
-1. Crea un directorio para guardar todos los ejercicios hechos en clase
-2. Explora las diferentes bases de datos 
-3. 
+1. Descarga e instala R y Rstudio
+2. Explora el ambiente de R
+3. Crea un directorio para guardar todos los ejercicios hechos en clase
+
+
 

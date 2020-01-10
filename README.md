@@ -6,15 +6,21 @@ M. en C. Verónica Reyes Galindo
 
 Sábados 9:00-11:00 am. Casa Tlalpan (Juanito House)
  
+
+
+![](Imagenes/snoopy.gif)
+
+
+
 ## Objetivos
 
 Que mis amigüitos aprendan a usar herramientas bioinformaticas para librar los problemas de sus tesis o chamba.
 
 1.- Organicen su proyecto de Tesis o de Vida en un repositorio en GitHub que cuente con las caracteristicas de reproducibilidad que la ciencia requiere.
 
-2.- Descubran metodos bioinformaticos que pueden utilizarse para abordar su proyecto de ciencia.
+2.- Descubran métodos bioinformáticos que pueden utilizarse para abordar su proyecto de ciencia.
 
-3.- Realicen analisis y graficos que puedan presentar en sus proximos tutorales o articulos.
+3.- Realicen análisis y graficos en R que puedan presentar en sus proximos tutorales o articulos.
 
 
 ## Pre-requisitos
@@ -39,7 +45,7 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 
 |Mes|Día|Tema|Actividad|# Clase|Tarea|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R|1|Ordenar datos de tesis /vida en una tabla|
+|Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R|1|Hacer una cuenta en GitHub/ Ordenar datos de tesis o de su vida en una tabla|
 |Enero|18|Entorno de R/ Operaciones matematicas básicas|Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
 |Enero|25|vectores |Trabajar en terminal R|3||
 |Febrero|1|matrices|Trabajar en terminal R|4||
