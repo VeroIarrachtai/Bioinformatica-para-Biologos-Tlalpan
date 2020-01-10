@@ -33,7 +33,7 @@ Que mis amigüitos aprendan a usar herramientas bioinformaticas para librar los 
 
 
 
-## Dinamica de clase
+## Dinámica de clase
 
 La hora de la clase es puntual, para no interferir con nuestras demás actividades. Aquel que llegue tarde debera pagar su retardo con algún incentivo alimenticio para la próxima clase.
 
