@@ -118,3 +118,12 @@ La idea es que en el editor de texto vayas escribiendo los comandos y comentario
 * ctrl + flecha hacia arriba: búsqueda en los comandos  
 * ctrl + 1: mover el cursor al editor  
 * ? + nombre de función: ayuda sobre esa función.
+
+
+
+# EJERCICIOS
+
+1. Crea un directorio para guardar todos los ejercicios hechos en clase
+2. Explora las diferentes bases de datos 
+3. 
+
