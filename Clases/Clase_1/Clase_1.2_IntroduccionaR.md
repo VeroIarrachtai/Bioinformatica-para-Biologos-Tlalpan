@@ -1,8 +1,8 @@
-# CLASE 1.2: Introducción a R 
+# CLASE 1.2: Introducción a R
 
 ![](../Imagenes/Creadores-de-R-Software-Robert-Gentleman-y-Ross-Ihaka.png)
 
-Ross Ihaka y Robert Gentleman desarrollaron R como un entorno de software libre para sus clases de enseñanza cuando eran colegas en la Universidad de Auckland en Nueva Zelanda. 
+Ross Ihaka y Robert Gentleman desarrollaron R como un entorno de software libre para sus clases de enseñanza cuando eran colegas en la Universidad de Auckland en Nueva Zelanda.
 
 ![](../Imagenes/university-of-auckland-nz.png)
 
@@ -12,7 +12,7 @@ Aquí hay algunas fechas clave en el desarrollo de R:
 
 * Principios de la década de 1990: comenzó el desarrollo de R.
 * Agosto de 1993: el software se anunció en la lista de correo de S-news. Desde entonces, se ha creado un conjunto de listas de correo R activas. La página web en www.r ‐ project. org / mail.html proporciona descripciones
-de estas listas e instrucciones para suscribirse. 
+de estas listas e instrucciones para suscribirse.
 * Junio ​​de 1995: después de algunos argumentos persuasivos de Martin Mächler (entre otros) para que el código esté disponible como "software libre", el código se puso a disposición bajo la Licencia Pública General GNU (GPL) de la Free Software Foundation, Versión 2.
 * Mediados de 1997: se formó el Equipo Central de Desarrollo R inicial (aunque, en ese momento, simplemente se conocía como el grupo central).
 * Febrero de 2000: se lanzó la primera versión de R, la versión 1.0.0.
@@ -127,5 +127,7 @@ La idea es que en el editor de texto vayas escribiendo los comandos y comentario
 2. Explora el ambiente de R
 3. Crea un directorio para guardar todos los ejercicios hechos en clase
 
-
-
+# TAREA
+1. Hacer una cuenta en GitHub
+2. Instalar [Desktop GitHub](https://desktop.github.com/) y [Atom](https://atom.io/)
+3. Traer una base de datos con la cual trabajar en la próxima clase e imagenes que quisieran poder realizar
