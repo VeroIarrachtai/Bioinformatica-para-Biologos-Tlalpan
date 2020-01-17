@@ -131,4 +131,4 @@ La idea es que en el editor de texto vayas escribiendo los comandos y comentario
 1. Hacer una cuenta en GitHub
 2. Instalar [Desktop GitHub](https://desktop.github.com/) y [Atom](https://atom.io/)
 3. Traer una base de datos con la cual trabajar en la próxima clase e imagenes que quisieran poder realizar
-4. Buscar en Dryad algun articulo que les interese por los analisis bioinformaticos  y las figuras que tienen (que quieran llegar a realizar durante el curso).
+4. Buscar en [Dryad](https://datadryad.org/stash) algun articulo que les interese por los analisis bioinformaticos  y las figuras que tienen (que quieran llegar a realizar durante el curso).
