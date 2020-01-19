@@ -334,6 +334,6 @@ fahrenheit_a_kelvin()
 
 # Tarea
 
-1. Repasar los conceptos y las operaciones básicas}}}}}}}/funciones
+1. Repasar los conceptos y las operaciones básicas/funciones
 
 2. Identificar algunas de ellas en el script que obtuvieron durante su busqueda en DRYAD
