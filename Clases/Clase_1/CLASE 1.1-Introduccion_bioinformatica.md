@@ -27,7 +27,7 @@ Los proyectos deben de acompañarse de un archivo *README.md* que contiene toda 
 
 ejemplo:
 
-[Repositorio en GitHub](https://github.com/VeroIarrachtai/Abies_religiosa_vs_ozone)
+[**Repositorio en GitHub**](https://github.com/VeroIarrachtai/Abies_religiosa_vs_ozone)
 [Repositorio DRYAD](https://datadryad.org/stash/dataset/doi:10.5061/dryad.f7248)
 
 ## Markdown
