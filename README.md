@@ -1,11 +1,11 @@
-# Clases básicas de bioinformatica para biólogos 
+# Clases básicas de bioinformatica para biólogos
 
 Profesora:
 
-M. en C. Verónica Reyes Galindo 
+M. en C. Verónica Reyes Galindo
 
-Sábados 9:00-11:00 am. Casa Tlalpan (Juanito House)
- 
+Sábados 10:00am- 1:00pm-. Casa Tlalpan (Juanito House)
+
 
 
 ![](Imagenes/snoopy.gif)
@@ -46,10 +46,10 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 |Mes|Día|Tema|Actividad|# Clase|Tarea|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Enero|11|Introducción a la bioinformática/ Introducción a R|Reconocer el ambiente de R/Crear un directorio para sus datos|1|Hacer una cuenta en GitHub/ Ordenar datos de tesis o de su vida en una tabla|
-|Enero|18|Entorno de R/ Operaciones matematicas básicas|Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
-|Enero|25|vectores |Trabajar en terminal R|3||
-|Febrero|1|matrices|Trabajar en terminal R|4||
-|Febrero|8|Data frame/Listas|Trabajar en terminal R|5||
+|Enero|18|Entorno de R |Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
+|Enero|25|Operaciones matematicas básicas/ manipulación de datos|Trabajar en terminal R|3||
+|Febrero|1|Suspensión de clases|Hacer su Tarea|4|
+|Febrero|8|Vectores, Data frame, Listas, Matrices|Trabajar en terminal R|5||
 |Febrero|15|combinar, cortar y pegar datos|Trabajar en terminal R|6||
 |Febrero|22|for loops|Trabajar en terminal R|7||
 |Febrero|29|funciones|Trabajar en terminal R|8||
@@ -58,5 +58,3 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 |Marzo|16| Edición de gráficos|Trabajar en terminal R|11||
 |Marzo|23|Resolver gráficos|Trabajar en terminal R|12||
 |Marzo|30|||13||
-
-
