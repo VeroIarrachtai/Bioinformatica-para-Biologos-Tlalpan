@@ -12,7 +12,7 @@
 ```
 
 ```
-> print("Hello world!") 
+> print("Hello world!")
 > [1] "Hello world!"
 ```
 
@@ -43,3 +43,6 @@
 ## paste()
 
 ## library()
+
+
+3. Crear una función

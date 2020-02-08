@@ -49,12 +49,11 @@ Se dejaran lecturas que los participantes deberan leer y comentar en clase. La t
 |Enero|18|Entorno de R |Trabajar en terminal R|2|Traer gráficos/análisis que qusieran crear con R|
 |Enero|25|Operaciones matematicas básicas/ manipulación de datos|Trabajar en terminal R|3||
 |Febrero|1|Suspensión de clases|Hacer su Tarea|4|
-|Febrero|8|Vectores, Data frame, Listas, Matrices|Trabajar en terminal R|5||
-|Febrero|15|combinar, cortar y pegar datos|Trabajar en terminal R|6||
-|Febrero|22|for loops|Trabajar en terminal R|7||
-|Febrero|29|funciones|Trabajar en terminal R|8||
-|Marzo|2|Instalar paqueterias y plotear graficos|Trabajar en terminal R|9||
-|Marzo|9|Exponer sus dudas y gráficos/análisis de interes|Trabajar en terminal R|10||
-|Marzo|16| Edición de gráficos|Trabajar en terminal R|11||
-|Marzo|23|Resolver gráficos|Trabajar en terminal R|12||
-|Marzo|30|||13||
+|Febrero|8|Vectores, Matrices, Data frame |Trabajar en terminal R|5||
+|Febrero|22|Listas/ Combinar, cortar y pegar datos|Trabajar en terminal R|6||
+|Febrero|29|for loops|Trabajar en terminal R|7||
+|Marzo|2|funciones|Trabajar en terminal R|8||
+|Marzo|9|Instalar paqueterias y plotear graficos|Trabajar en terminal R|9||
+|Marzo|16|Exponer sus dudas y gráficos/análisis de interes|Trabajar en terminal R|10||
+|Marzo|23| Edición de gráficos|Trabajar en terminal R|11||
+|Marzo|30|Resolver gráficos|Trabajar en terminal R|12||
